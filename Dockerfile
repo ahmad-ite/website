@@ -1,6 +1,3 @@
-FROM ubuntu
-
-
 FROM ubuntu:18.04
 
 # Install dependencies
